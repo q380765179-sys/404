@@ -1,5 +1,5 @@
 ---
-name: underground-flash-editorial
+name: underground-flash
 description: 将参考图、文字描述或已有提示词转化为 1990 年代地下时尚杂志摄影，以粗粝 35mm 胶片扫描、机顶直闪、暖红棕与轻微脏绿阴影、随拍式反时尚气质为固定风格，默认使用当前可用的 GPT 图像生成能力出图。适用于地下杂志风、粗粝胶片直闪、反时尚摄影及同风格图片改写。
 ---
 
