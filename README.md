@@ -1,6 +1,6 @@
 # 404 SKILL
 
-404 制作的 AI 创作 Skill。
+404 制作的 AI 视觉 Skill。
 
 ## 快速安装
 
